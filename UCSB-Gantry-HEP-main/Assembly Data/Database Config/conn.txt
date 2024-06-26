@@ -1,0 +1,5 @@
+gut.physics.ucsb.edu
+hgcdb
+gantry_user
+hgcal
+1

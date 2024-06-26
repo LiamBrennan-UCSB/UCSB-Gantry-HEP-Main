@@ -1,0 +1,15 @@
+NI Slot	cDAQ1Mod3
+Compression Sensor	29
+Tool Primary Sensor	21
+Tool Secondary Sensor	14
+Region Sensors [0]	0
+Region Sensors [1]	7
+Region 1 pos 1 baseplate sensor	6
+Region 1 pos 1 o ring sensor	1
+Region 1 pos 2 baseplate sensor	5
+Region 1 pos 2 o ring sensor	2
+Region 2 pos 1 Si/PCB sensor	8
+Region 2 pos 2 Si/PCB sensor	9
+N/A	-1
+N/A	-1
+Dispenser	31
